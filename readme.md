@@ -16,4 +16,4 @@ The information available on the app goes further to include what animals are de
 * iPhone App: Coming soon
 * [Website](http://www.whatgrowshere.com.au/)
 * [Video](http://www.youtube.com/watch?v=bDt7SJ1o0gs)
-* [Learning Object](http://www.whatgrowshere.com.au/lrs/birds_lo.php)
+
